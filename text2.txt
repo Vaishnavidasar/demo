@@ -1,4 +1,5 @@
 second file
 new line in das branch
+some more lines added while the work was in stash
 
 
